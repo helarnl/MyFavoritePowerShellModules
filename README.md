@@ -1,2 +1,5 @@
-# MyFavoritePowerShellModules
-My Favorite PowerShell Modules
+# My Favorite PowerShell Modules
+
+* VMware.PowerCLI
+* ImportExcel
+* Use-WhoisOvertHTTP
